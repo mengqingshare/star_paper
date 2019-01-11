@@ -1,3 +1,10 @@
+> 背景
+
+工作中经常会遇到一些问题,继而会搜寻一些解决方案,时间长了,就会积累一些优质资料,分享出来,以飨诸君
+
+
+> 正文
+
 |主题 | 链接 | 来源 | 
 |---|---|---|
 |mysql 索引 | [MySQL索引原理及慢查询优化](https://tech.meituan.com/mysql_index.html) | 美团点评技术团队 | 
@@ -25,3 +32,8 @@
 |redis|[如何阅读 Redis 源码](http://blog.huangz.me/diary/2014/how-to-read-redis-source-code.html)|huangz.me|
 |redis|[Redis通信协议详解（官方文档）](https://redis.io/topics/protocol)|redis.io|
 |redis|[redis服务器集群、客户端分片](https://www.cnblogs.com/crazylqy/p/7455633.html)|cnblogs.com|
+
+> 维护者
+
+[LiuKaining](http://www.liukaining.com/)
+
