@@ -25,3 +25,7 @@
 |redis|[如何阅读 Redis 源码](http://blog.huangz.me/diary/2014/how-to-read-redis-source-code.html)|huangz.me|
 |redis|[Redis通信协议详解（官方文档）](https://redis.io/topics/protocol)|redis.io|
 |redis|[redis服务器集群、客户端分片](https://www.cnblogs.com/crazylqy/p/7455633.html)|cnblogs.com|
+|个人成长|[How to choose a programming language](https://medium.com/@tassiapaschoal/how-to-choose-a-programming-language-180875d9d7bc)|medium.com|
+
+
+
