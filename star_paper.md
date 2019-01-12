@@ -26,6 +26,7 @@
 |redis|[Redis通信协议详解（官方文档）](https://redis.io/topics/protocol)|redis.io|
 |redis|[redis服务器集群、客户端分片](https://www.cnblogs.com/crazylqy/p/7455633.html)|cnblogs.com|
 |个人成长|[How to choose a programming language](https://medium.com/@tassiapaschoal/how-to-choose-a-programming-language-180875d9d7bc)|medium.com|
+|个人成长|[How to improve your data structures, algorithms, and problem-solving_skills](https://medium.freecodecamp.org/how-to-improve-your-data-structures-algorithms-and-problem-solving-skills-af50971cba60)|medium.com|
 
 
 
