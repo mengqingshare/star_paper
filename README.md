@@ -5,11 +5,11 @@
 > 文档链接
 
 [star_paper_all](https://mengqingshare.github.io/star_paper/star_paper.html)
-    - [common](https://mengqingshare.github.io/star_paper/common.html)
-    - [linux](https://mengqingshare.github.io/star_paper/linux.html)    
-    - [mysql](https://mengqingshare.github.io/star_paper/mysql.html)
-    - [redis](https://mengqingshare.github.io/star_paper/redis.html)
-    - [个人发展](https://mengqingshare.github.io/star_paper/person_development.html)    
+- [common](https://mengqingshare.github.io/star_paper/common.html)
+- [linux](https://mengqingshare.github.io/star_paper/linux.html)    
+- [mysql](https://mengqingshare.github.io/star_paper/mysql.html)
+- [redis](https://mengqingshare.github.io/star_paper/redis.html)
+- [个人发展](https://mengqingshare.github.io/star_paper/person_development.html)    
 
     
 > 维护者
