@@ -27,6 +27,6 @@
 |redis|[redis服务器集群、客户端分片](https://www.cnblogs.com/crazylqy/p/7455633.html)|cnblogs.com|
 |个人成长|[How to choose a programming language](https://medium.com/@tassiapaschoal/how-to-choose-a-programming-language-180875d9d7bc)|medium.com|
 |个人成长|[How to improve your data structures, algorithms, and problem-solving_skills](https://medium.freecodecamp.org/how-to-improve-your-data-structures-algorithms-and-problem-solving-skills-af50971cba60)|medium.com|
-
+|英语|[微服务常用术语表](https://liubao68.github.io/ReadTheDocDemo/start/terminology.html)|liubao68.github.io|
 
 

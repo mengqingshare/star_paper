@@ -4,3 +4,4 @@
 |算法| [十大经典排序算法（动图演示）](https://www.cnblogs.com/onepixel/articles/7674659.html) | cnblogs.com|
 |操作系统|[那些永不消逝的进程](https://www.ibm.com/developerworks/cn/linux/1702_zhangym_demo/index.html)|ibm.com|
 |PHP|[我们什么时候应该使用异常?](http://www.laruence.com/2012/02/02/2515.html)|laruence.com|
+|英语|[微服务常用术语表](https://liubao68.github.io/ReadTheDocDemo/start/terminology.html)|liubao68.github.io|
