@@ -28,5 +28,6 @@
 |个人成长|[How to choose a programming language](https://medium.com/@tassiapaschoal/how-to-choose-a-programming-language-180875d9d7bc)|medium.com|
 |个人成长|[How to improve your data structures, algorithms, and problem-solving_skills](https://medium.freecodecamp.org/how-to-improve-your-data-structures-algorithms-and-problem-solving-skills-af50971cba60)|medium.com|
 |英语|[微服务常用术语表](https://liubao68.github.io/ReadTheDocDemo/start/terminology.html)|liubao68.github.io|
+|redis|[《Redis 设计与实现》图片集](http://1e-gallery.redisbook.com/index.html)|redisbook.com|
 
 

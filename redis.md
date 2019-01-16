@@ -5,6 +5,6 @@
 |redis|[如何阅读 Redis 源码](http://blog.huangz.me/diary/2014/how-to-read-redis-source-code.html)|huangz.me|
 |redis|[Redis通信协议详解（官方文档）](https://redis.io/topics/protocol)|redis.io|
 |redis|[redis服务器集群、客户端分片](https://www.cnblogs.com/crazylqy/p/7455633.html)|cnblogs.com|
-
+|redis|[《Redis 设计与实现》图片集](http://1e-gallery.redisbook.com/index.html)|redisbook.com|
 
 
