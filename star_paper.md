@@ -29,3 +29,5 @@
 |redis|[《Redis 设计与实现》图片集](http://1e-gallery.redisbook.com/index.html)|redisbook.com|
 |nginx|[Nginx+Php-fpm 运行原理详解](https://juejin.im/post/58db7d742f301e007e9a00a7)|juejin.im|
 |nginx|[OpenResty 构建一站式应用网关实践](https://mp.weixin.qq.com/s/BG5K8eKh4QwGcBv9UldWpg)|mp.weixin.qq.com|
+|架构| [微信朋友圈技术之道](https://www.infoq.cn/article/three-people-background-team-and-billions-daily-release) | infoq.cn |
+|计算机网络|[如何理解高性能网络模型](https://mp.weixin.qq.com/s/xmSn9Xz6MiFb2s_0J7iXwQ)|mp.weixin.qq.com|

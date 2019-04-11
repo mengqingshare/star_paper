@@ -12,8 +12,18 @@
 - [nginx](https://mengqingshare.github.io/star_paper/nginx.html)
 - [个人发展](https://mengqingshare.github.io/star_paper/person_development.html)    
 
-    
+> github 源地址
+
+[star_paper](https://github.com/mengqingshare/star_paper)
+
+
 > 维护者
 
-[LiuKaining](http://www.liukaining.com/)
+LiuKaining
+
+![](image/lkn.png)
+
+
+
+
 
