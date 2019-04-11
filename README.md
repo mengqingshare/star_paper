@@ -21,7 +21,7 @@
 
 LiuKaining
 
-![avatar](https://github.com/mengqingshare/star_paper/blob/master/image/lkn.png)
+![avatar](/image/lkn.png)
 
 
 
