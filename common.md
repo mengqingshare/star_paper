@@ -7,3 +7,8 @@
 |英语|[微服务常用术语表](https://liubao68.github.io/ReadTheDocDemo/start/terminology.html)|liubao68.github.io|
 |计算机网络|[如何理解高性能网络模型](https://mp.weixin.qq.com/s/xmSn9Xz6MiFb2s_0J7iXwQ)|mp.weixin.qq.com|
 |分布式|[2PC之踵？是时候升级二阶段提交协议了](https://timyang.net/distributed/time-to-move-on-from-two-phase/)|timyang.net|
+
+
+----------
+
+[返回首页](https://mengqingshare.github.io/star_paper/)

@@ -2,7 +2,7 @@
 
 工作中经常会遇到一些问题,继而会搜寻一些解决方案,时间长了,就会积累一些优质资料,分享出来,与诸君共勉
 
-### 按照主题分类
+### 按照 主题 分类
 
 - [common](https://mengqingshare.github.io/star_paper/common.html)
 - [linux](https://mengqingshare.github.io/star_paper/linux.html) 
@@ -14,8 +14,7 @@
 
 ------ 
 
-
-### 收集时间排序
+### 按照 收集时间 排序
 
 
 |主题 | 链接 | 来源 | 
