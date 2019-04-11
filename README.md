@@ -21,7 +21,7 @@
 
 LiuKaining
 
-<img src="/images/lkn.png" width=100 height=100/>
+<img src="/images/lkn.png" width=200 height=300/>
 
 
 
