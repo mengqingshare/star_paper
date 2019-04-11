@@ -27,5 +27,5 @@
 |个人成长|[How to improve your data structures, algorithms, and problem-solving_skills](https://medium.freecodecamp.org/how-to-improve-your-data-structures-algorithms-and-problem-solving-skills-af50971cba60)|medium.com|
 |英语|[微服务常用术语表](https://liubao68.github.io/ReadTheDocDemo/start/terminology.html)|liubao68.github.io|
 |redis|[《Redis 设计与实现》图片集](http://1e-gallery.redisbook.com/index.html)|redisbook.com|
-
-
+|nginx|[Nginx+Php-fpm 运行原理详解](https://juejin.im/post/58db7d742f301e007e9a00a7)|juejin.im|
+|nginx|[OpenResty 构建一站式应用网关实践](https://mp.weixin.qq.com/s/BG5K8eKh4QwGcBv9UldWpg)|mp.weixin.qq.com|

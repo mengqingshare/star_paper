@@ -9,6 +9,7 @@
 - [linux](https://mengqingshare.github.io/star_paper/linux.html)    
 - [mysql](https://mengqingshare.github.io/star_paper/mysql.html)
 - [redis](https://mengqingshare.github.io/star_paper/redis.html)
+- [nginx](https://mengqingshare.github.io/star_paper/nginx.html)
 - [个人发展](https://mengqingshare.github.io/star_paper/person_development.html)    
 
     
