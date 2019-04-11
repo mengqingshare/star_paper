@@ -21,7 +21,7 @@
 
 LiuKaining
 
-<img src="/images/lkn.png" width=200 height=300/>
+![avatar](/images/lkn.png =200*300)
 
 
 
