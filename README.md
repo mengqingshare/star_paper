@@ -2,7 +2,7 @@
 
 工作中经常会遇到一些问题,继而会搜寻一些解决方案,时间长了,就会积累一些优质资料,分享出来,与诸君共勉
 
-> 主题分类
+### 按照主题分类
 
 - [common](https://mengqingshare.github.io/star_paper/common.html)
 - [linux](https://mengqingshare.github.io/star_paper/linux.html) 
@@ -12,7 +12,12 @@
 - [nginx](https://mengqingshare.github.io/star_paper/nginx.html)
 - [个人发展](https://mengqingshare.github.io/star_paper/person_development.html)    
 
-> all
+------ 
+
+
+### 收集时间排序
+
+
 
 |主题 | 链接 | 来源 | 
 |---|---|---|
@@ -48,6 +53,7 @@
 |架构| [微信朋友圈技术之道](https://www.infoq.cn/article/three-people-background-team-and-billions-daily-release) | infoq.cn |
 |计算机网络|[如何理解高性能网络模型](https://mp.weixin.qq.com/s/xmSn9Xz6MiFb2s_0J7iXwQ)|mp.weixin.qq.com|
 
+----------
 
 > 维护者
 
