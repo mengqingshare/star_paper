@@ -21,7 +21,7 @@
 
 LiuKaining
 
-![avatar](/images/lkn.png)
+![avatar](/images/lkn.png){:height="150px" width="150px"}
 
 
 
