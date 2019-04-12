@@ -4,13 +4,13 @@
 
 ### 按照 主题 分类
 
-- [common](http://star_paper.liukaining.com/star_paper/common.html)
-- [linux](http://star_paper.liukaining.com/star_paper/linux.html) 
-- [architecture](http://star_paper.liukaining.com/star_paper/architecture.html)    
-- [mysql](http://star_paper.liukaining.com/star_paper/mysql.html)
-- [redis](http://star_paper.liukaining.com/star_paper/redis.html)
-- [nginx](http://star_paper.liukaining.com/star_paper/nginx.html)
-- [个人发展](http://star_paper.liukaining.com/star_paper/person_development.html)    
+- [common](http://star_paper.liukaining.com/common.html)
+- [linux](http://star_paper.liukaining.com/linux.html) 
+- [architecture](http://star_paper.liukaining.com/architecture.html)    
+- [mysql](http://star_paper.liukaining.com/mysql.html)
+- [redis](http://star_paper.liukaining.com/redis.html)
+- [nginx](http://star_paper.liukaining.com/nginx.html)
+- [个人发展](http://star_paper.liukaining.com/person_development.html)    
 
 ------ 
 
