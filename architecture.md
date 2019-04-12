@@ -5,4 +5,4 @@
 
 ----------
 
-[返回首页](http://star_paper.liukaining.com/star_paper/)
+[返回首页](http://star_paper.liukaining.com)
