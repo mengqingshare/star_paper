@@ -4,13 +4,13 @@
 
 ### 按照 主题 分类
 
-- [common](https://mengqingshare.github.io/star_paper/common.html)
-- [linux](https://mengqingshare.github.io/star_paper/linux.html) 
-- [architecture](https://mengqingshare.github.io/star_paper/architecture.html)    
-- [mysql](https://mengqingshare.github.io/star_paper/mysql.html)
-- [redis](https://mengqingshare.github.io/star_paper/redis.html)
-- [nginx](https://mengqingshare.github.io/star_paper/nginx.html)
-- [个人发展](https://mengqingshare.github.io/star_paper/person_development.html)    
+- [common](http://star_paper.liukaining.com/star_paper/common.html)
+- [linux](http://star_paper.liukaining.com/star_paper/linux.html) 
+- [architecture](http://star_paper.liukaining.com/star_paper/architecture.html)    
+- [mysql](http://star_paper.liukaining.com/star_paper/mysql.html)
+- [redis](http://star_paper.liukaining.com/star_paper/redis.html)
+- [nginx](http://star_paper.liukaining.com/star_paper/nginx.html)
+- [个人发展](http://star_paper.liukaining.com/star_paper/person_development.html)    
 
 ------ 
 

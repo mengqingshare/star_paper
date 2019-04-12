@@ -11,4 +11,4 @@
 
 ----------
 
-[返回首页](https://mengqingshare.github.io/star_paper/)
+[返回首页](http://star_paper.liukaining.com/star_paper/)
