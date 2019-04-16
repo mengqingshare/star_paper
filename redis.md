@@ -6,7 +6,8 @@
 |redis|[Redis通信协议详解（官方文档）](https://redis.io/topics/protocol)|redis.io|
 |redis|[redis服务器集群、客户端分片](https://www.cnblogs.com/crazylqy/p/7455633.html)|cnblogs.com|
 |redis|[《Redis 设计与实现》图片集](http://1e-gallery.redisbook.com/index.html)|redisbook.com|
-
+|redis|[大话Redis设计实现](https://github.com/rfyiamcool/share_ppt/blob/master/rediscode.pdf)|github.com/rfyiamcool|
+|redis|[百亿请求高可用Redis(codis)分布式集群揭秘](https://mp.weixin.qq.com/s/F68-e2umTQIq0aGfif58ow)|mp.weixin.qq.com|
 
 ----------
 
