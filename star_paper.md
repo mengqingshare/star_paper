@@ -6,7 +6,6 @@
 |跳表| [Skip Lists: Done Right](http://ticki.github.io/blog/skip-lists-done-right/) | ticki.github.io| 
 |跳表| [Redis内部数据结构详解之跳跃表(skiplist)](https://blog.csdn.net/acceptedxukai/article/details/17333673) | csdn| 
 |mysql 事务 | [『浅入深出』MySQL 中事务的实现](https://draveness.me/mysql-transaction) | draveness | 
-|mysql 事务 |[Innodb中的事务隔离级别和锁的关系](https://tech.meituan.com/innodb-lock.html) | 美团点评技术团队 | 
 |个人成长 |[避免把路走窄，程序员须记住：解决问题比写代码更重要](https://mp.weixin.qq.com/s/kJA9M-ezh8BUhArMb8BKWA)  | Java程序员联盟 | 
 |个人成长 |(原文)[The Problem You Solve Is More Important Than The Code You Write](https://levelup.gitconnected.com/the-problem-you-solve-is-more-important-than-the-code-you-write-d0e5493132c6) )| gitconnected |
 |redis 数据结构 | [深入浅出Redis-redis底层数据结构（上）](https://www.cnblogs.com/jaycekon/p/6227442.html) | cnblogs | 
